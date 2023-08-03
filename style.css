@@ -1,0 +1,233 @@
+.city{
+    width: 100%;
+    height: 70px;
+    background-color: #98C5E9;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    margin: 0;
+}
+
+.size{
+    width: 80px;
+    position: absolute;
+    left: 10rem;
+}
+
+.logo{
+    position: relative;
+    padding: 9;
+    border-radius: 100px;
+}
+
+div > .navigation{
+    width: 42rem;
+    height:29px;
+    position: relative;
+    bottom: 53px;
+    left: 90px;
+    background-color: #98C5E9;
+}
+
+ul > li{
+    display: inline-block;
+    position: relative;
+    bottom: 12px;
+    right: 30px;
+    padding-inline: 4px;
+    font-family: KippaxCondensed, sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    line-height: 28px;
+    letter-spacing: 0.27px;
+    text-transform: uppercase;
+    margin: 0;
+}
+
+div>.treble{
+    z-index: -1;
+    width: 100%;
+    margin-left: -8px;
+    margin-right: 0;
+    position: relative;
+    right: -9px;
+    padding-top: 62px;
+    object-position: center;
+}
+
+.trophy_logo{
+    z-index: -1;
+    width: 40%;
+    height: 105px;
+    background-color: #001838;
+    position: relative;
+    left: 18%;
+    bottom: 109px;
+}
+
+.trophy-logo > img{
+    position: relative;
+    top: 36px;
+    left: 20px;
+    width: 35px;
+    height: 35px;
+    size: -20px;
+    background-color: #001838;
+    margin: 0;
+}
+
+a{
+    position: relative;
+    left: 20px;
+    top: 33px;
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 52px;
+    line-height: 29px;
+    text-transform: uppercase;
+    color: white;
+    letter-spacing: -3px;
+    font-weight: bold;
+    word-spacing: 4px;
+    
+}
+
+#src{
+    display: block;
+    position: absolute;
+}
+
+section-1>div>ul{
+    position: relative;
+    z-index: -1;
+    display: flex;
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+    width: 667px;
+}
+
+#guardiola-2{
+    position: relative;
+    z-index: -1;
+    width: 326.9px;
+    height: 183.9px;
+    margin-top: -99px;
+    margin-left: 20em;
+    object-position: center;
+}
+
+#fans-parade{
+    position: relative;
+    z-index: -1;
+    margin-top: -99px;
+    height: 183.9px;
+}
+
+.women{
+    position: relative;
+    z-index: -1;
+    width: 300px;
+    height: 183px;
+    margin-top: 0;
+    margin-left: 10em;
+    object-position: center;
+}
+
+.treble-all-in-one{
+    position: relative;
+    z-index: -1;
+    width: 400px;
+    height: 381.9px;
+    margin-left: 0;
+}
+
+#alvarez{
+    position: relative;
+    z-index: -1;
+    margin-top: -13em;
+    margin-left: 8.8em;
+}
+
+#haaland-2{
+    position: relative;
+    z-index: -1;
+    margin-left: 25.6em;
+    margin-top: -29em;
+}
+
+.jersey{
+    position: relative;
+    z-index: -1;
+    width: 320px;
+    height: 12em;
+    margin-top: 5em;
+    margin-left: 0;
+}
+
+.guardiola{
+    position: relative;
+    z-index: -1;
+    width: 330px;
+    height: 380px;
+    margin-top: 2em;
+}
+
+#treble-three{
+    position: relative;
+    z-index: -1;
+    width: 330px;   
+    margin-top: 2em;
+}
+
+.cancelo{
+    position: relative;
+    z-index: -1;
+    margin-top: 5em;
+}
+
+#src ul, #src ul, #src div{
+    border: 0;
+}
+
+.partners-section{
+    position: relative;
+    z-index: -1;
+    background-color: #E6F3FF;
+    padding: 24px;
+    display: inline-flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    flex-direction: column;
+    -webkit-box-align: center;
+    align-items: center;
+    width: 1292px;
+    height: 100px;
+}
+
+.partners-list{
+    display: flex;
+    flex-wrap: wrap;
+    -webkit-box-pack: center;
+    justify-content: center;
+    z-index: -1;
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;  
+}
+
+.etihad-logo{
+    margin-top: 17px;
+    width: 120px;
+}
+
+.puma-logo{
+    margin-top: -15px;
+    width: 120px;
+}
